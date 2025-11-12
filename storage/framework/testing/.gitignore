@@ -1,0 +1,9 @@
+*
+/vendor
+/node_modules
+/.env.example
+/public/storage
+/storage/*.key
+/.idea
+/.vscode
+!.gitignore
