@@ -249,12 +249,6 @@
                 >
                     Registrasi Penjual
                 </button>
-                <button 
-                    type="reset"
-                    class="px-6 py-2.5 bg-white border-2 border-gray-900 text-gray-900 dark:bg-gray-800 dark:border-white dark:text-white font-medium rounded-md hover:bg-gray-100 dark:hover:bg-gray-700 transition"
-                >
-                    Batal
-                </button>
             </div>
         </form>
 

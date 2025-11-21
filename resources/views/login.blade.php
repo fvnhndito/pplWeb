@@ -15,7 +15,7 @@
     <body class="bg-gray-50 dark:bg-gray-900 min-h-screen flex items-center justify-center p-6">
         <div class="w-full max-w-md">
             <div class="text-center mb-8">
-                <a href="/" class="text-3xl font-semibold text-gray-900 dark:text-white">LOGIN JING</a>
+                <a href="/" class="text-3xl font-semibold text-gray-900 dark:text-white">PLEASE LOGIN</a>
                 <p class="text-sm text-gray-600 dark:text-gray-400 mt-2">Welcome back! Please login to your account</p>
             </div>
 
